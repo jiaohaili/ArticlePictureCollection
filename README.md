@@ -1,0 +1,2 @@
+# ArticlePictureCollection
+用来存放文章图片的集合
